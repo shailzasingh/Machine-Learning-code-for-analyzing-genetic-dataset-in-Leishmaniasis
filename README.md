@@ -11,3 +11,12 @@ we Have collected 166 dataset comprising
     40 Leishmaniasis patient dataset
 
 The datasets were pooled into a sinsle .CSV file, with label encoded at the end of the data of all the samples
+
+
+Platforms Used for compiling and executing the code
+
+        Tensorflow 1.8.0
+        python 3.6
+        numpy 1.14.5
+        pandas 0.23.1
+        PyCharm 2018.1
