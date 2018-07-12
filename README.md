@@ -22,4 +22,4 @@ Platforms Used for compiling and executing the code
         PyCharm 2018.1
 
 
-# Code was developed by Dr.Shailza Simgh and M.A.Sundaramahalingam
+# Code was developed by Dr.Shailza Singh and M.A.Sundaramahalingam
