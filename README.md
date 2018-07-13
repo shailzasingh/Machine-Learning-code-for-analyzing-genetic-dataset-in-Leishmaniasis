@@ -2,15 +2,15 @@
 
 This code is meant for processing a genetic data of Leishmaniasis Cases in Human beings
 
-The Datasets were collected from the Gene Express Omnibus database (A repository of functional genomes)
+The Datasets were collected from the Gene Express Omnibus database (A repository of functional genome)
 
-we Have collected 166 dataset comprising
+We have collected 166 datasets comprising
     38 healthy persons dataset
     78 infected dataset
     10 lesion sample dataset
     40 Leishmaniasis patient dataset
 
-The datasets were pooled into a sinsle .CSV file, with label encoded at the end of the data of all the samples
+The datasets were pooled into a single .CSV file, with label encoded at the end of the data of all the samples
 
 
 Platforms Used for compiling and executing the code
